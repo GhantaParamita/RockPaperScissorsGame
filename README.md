@@ -17,6 +17,7 @@ Built with Vanilla JS (no frameworks)
 Clone or download this repository
 
 git clone https://github.com/your-username/RockPaperScissors.git
+
 cd RockPaperScissors
 
 
