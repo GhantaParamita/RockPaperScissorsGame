@@ -18,7 +18,7 @@ Clone or download this repository
 
 git clone https://github.com/your-username/RockPaperScissors.git
 
-cd RockPaperScissors
+cd RockPaperScissorsGame
 
 
 Open index.html in your browser
