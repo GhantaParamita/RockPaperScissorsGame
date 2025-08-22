@@ -16,7 +16,7 @@ Built with Vanilla JS (no frameworks)
 
 Clone or download this repository
 
-git clone https://github.com/your-username/RockPaperScissors.git
+git clone https://github.com/GhantaParamita/RockPaperScissorsGame.git
 
 cd RockPaperScissorsGame
 
